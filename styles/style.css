@@ -32,7 +32,7 @@ html * {
     max-width: 24rem;
     height: 32.625rem;
     border-radius: 1.25rem;
-    border-style: solid 1px var(--color-secondary-dark);
+    border: solid 1.5px var(--color-secondary-dark);
     background-color: var(--color-white);
     padding: 1.5rem;
     display: flex;
